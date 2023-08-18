@@ -1,0 +1,12 @@
+{
+  "browser": "chrome",
+  "isHeadless": false,
+  "browserStackEnabled": false,
+  "browserStackOS": "OS X",
+  "browserStackOSVersion": "Monterey",
+  "env": "stage",
+  "defaultElementTimeout": 30000,
+  "defaultPageLoadTimeout": 60000,
+  "defaultTestTimeout": 300000,
+  "payEverUrl": "https://commerceos.staging.devpayever.com/registration"
+}
